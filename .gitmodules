@@ -1,0 +1,6 @@
+[submodule "GoldenVoice-server"]
+	path = GoldenVoice-server
+	url = git@github.com:Truly-Depressed-Developers/GoldenVoice-server.git
+[submodule "GoldenVoice-client"]
+	path = GoldenVoice-client
+	url = git@github.com:Truly-Depressed-Developers/GoldenVoice-client.git
